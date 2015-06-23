@@ -14,8 +14,7 @@ echo "===== $SCRIPTNAME ====="
 echo ""
 
 # execute system update (if needed)
-apt-get update -y
-#apt-get upgrade -y
+yum update -y
 
 echo "add here your dependencies .."
 
