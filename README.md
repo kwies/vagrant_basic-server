@@ -2,7 +2,7 @@
 
 ## Getting started guide
 
-see [GettingStarted.md](https://github.com/kwies/vagrant_examples/GettingStarted.md)
+see [GettingStarted.md](https://github.com/kwies/vagrant-examples/blob/master/GettingStarted.md)
 
 ## Basic Server Examples
 
