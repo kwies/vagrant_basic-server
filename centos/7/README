@@ -1,0 +1,4 @@
+
+Requirements:
+* vagrant plugin 'vagrant-vbguest' 
+   Installation with command: 'vagrant plugin install vagrant-vbguest'
